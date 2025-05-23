@@ -6,20 +6,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:ender_pearl",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:max_stack_size": 1
-              }
-            }
-          ],
-          "conditions": []
-        },
-        {
-          "type": "minecraft:item",
           "functions": [
             {
               "add": false,

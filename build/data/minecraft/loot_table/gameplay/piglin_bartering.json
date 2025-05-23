@@ -79,28 +79,6 @@
           "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_components",
-              "components": {
-                "minecraft:max_stack_size": 1
-              }
-            },
-            {
-              "add": false,
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 4,
-                "min": 2
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "minecraft:ender_pearl",
-          "weight": 10
-        },
-        {
-          "type": "minecraft:item",
-          "functions": [
-            {
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
