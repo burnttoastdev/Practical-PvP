@@ -16,6 +16,11 @@ execute as @e[type=minecraft:item_frame,nbt={Item:{id: "minecraft:elytra"}}] run
 
 execute as @a[tag=combat] run function pvp:combat_tick
 
+# checks if they are safe or should be killed
+
 execute if entity @s[tag=combat] if score @s logged matches 1.. run function pvp:kill
 execute if entity @s[tag=!combat] if score @s logged matches 1.. run function pvp:safe
+
+# checks if they died in combat
+
 execute if score @s deaths matches 1.. run function pvp:death

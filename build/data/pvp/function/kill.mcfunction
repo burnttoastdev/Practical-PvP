@@ -1,3 +1,5 @@
+# runs if player did not wait through the timer before leaving combat
+
 gamerule showDeathMessages false
 kill @s
 gamerule showDeathMessages true
