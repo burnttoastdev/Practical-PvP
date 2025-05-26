@@ -4,7 +4,7 @@ execute if entity @s[advancements={pvp:attack_check=true}] run advancement revok
 # Start combat timer and adds tag
 # to indicate they are in combat
 
-scoreboard players operation .config combat_timer = .config combat_timer_seconds
+scoreboard players operation .config combat_timer = .config timer_seconds
 scoreboard players operation .config combat_timer *= .20 number
 
 tag @s add combat

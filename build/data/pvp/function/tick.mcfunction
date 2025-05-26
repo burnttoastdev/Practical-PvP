@@ -16,6 +16,6 @@ execute as @e[type=minecraft:item_frame,nbt={Item:{id: "minecraft:elytra"}}] run
 
 execute as @a[tag=combat] run function pvp:combat_tick
 
-execute if entity @s[tag=combat] if score @s logged matches 1.. run function pvp:combat_log
-execute if entity @s[tag=!combat] if score @s logged matches 1.. run function pvp:safe_log
+execute if entity @s[tag=combat] if score @s logged matches 1.. run function pvp:kill
+execute if entity @s[tag=!combat] if score @s logged matches 1.. run function pvp:safe
 execute if score @s deaths matches 1.. run function pvp:death
