@@ -8,7 +8,7 @@ scoreboard players operation @s timer_seconds += .1 number
 
 # combat timer message
 
-title @s actionbar ["",{"text":"You are in combat for ","color":"red"},{"score":{"name":"@s","objective":"timer_seconds"},"bold":true,"color":"dark_red"},{"text":" seconds! Don't log out!","color":"red"}]
+title @s actionbar ["",{"text":"In combat for ","color":"red"},{"score":{"name":"@s","objective":"timer_seconds"},"bold":true,"color":"dark_red"},{"text":" seconds! Don't log out!","color":"red"}]
 
 # ends combat when timer reaches 0
 
