@@ -1,6 +1,6 @@
 # Practical PvP
 
-Want **simpler, more effective PvP** on your server? Practical PvP delivers. This data pack brings essential balance changes to combat logging, ender pearls, and elytra use, creating a fairer and more enjoyable experience for everyone. With these changes, players can be in fairer fights without the worry of the other player leaving mid-fight.
+Want **simpler, more effective PvP** on your server? Practical PvP delivers. This data pack brings essential balance changes to combat logging, ender pearls, and elytra use, creating a more enjoyable experience for everyone. With these changes, players can be fight without the worry of the other player leaving when things get challenging for them.
 
 ## Key Features
 

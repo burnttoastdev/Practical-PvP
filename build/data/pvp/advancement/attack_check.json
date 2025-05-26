@@ -10,7 +10,7 @@
     }
   },
   "rewards": {
-    "function": "pvp:player_combat"
+    "function": "pvp:combat_start"
   },
   "requirements": [
     [
