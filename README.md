@@ -1,21 +1,21 @@
 # Practical PvP
 
-Want **balenced, more effective PvP** on your server? Practical PvP delivers. This data pack brings essential balance changes by adding **combat logging**, making ender pearls non-stackable, and making elytra's useless. 
+Want **balanced, more effective PvP** on your server? Practical PvP delivers. This data pack brings essential balance changes by adding **combat logging**, making ender pearls non-stackable, and making elytras useless. 
 
-These features create a more enjoyable experience for everyone as players can fight without the worry of the other player leaving in the middle of combat and by allowing players to use other modes of transportation rather than the elytra.
+These features create a more enjoyable experience for everyone, as players can fight without worrying about the other player leaving in the middle of combat. Additionally, they allow players to use different modes of transportation rather than the elytra.
 
 ## Key Features
 
 * **Ender Pearl Rework:** Non-stackable, only drops from endermen.
 * **Elytra Replacement:** A useless, unbreakable leather chestplate.
 * **Combat Logging:**
-    * A combat timer (30 second default) that is trigger when you hit or get hit by another player. Leaving before waiting out the combat timer will result in getting killed upon rejoining.
+    * A combat timer (30-second default) that is triggered when you hit or get hit by another player. Leaving before waiting out the combat timer will result in getting killed upon rejoining.
     * Server-wide chat announcement when someone dies to combat logging.
     * Timer on the hotbar showing how long until it's safe to log out.
 
 ## How to Install
 
-1.  Go to the [releases](https://github.com/burnttoastdev/Practical-PvP/releases) and choose which version you want (typically the latest).
+1.  Go to the releases and choose which version you want (typically the latest).
 2.  Decide if you want to download the pack as a pure data pack or packaged as a mod.
 3.  Click the corresponding link on the chosen release.
 4.  Download the chosen data pack (.zip file) or mod (.jar file) from Modrinth.
