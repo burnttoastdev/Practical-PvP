@@ -2,6 +2,6 @@
   "pack": {
     "description": "Practical PvP Data Pack",
     "pack_format": 71,
-    "supported_formats": [71,71]
+    "supported_formats": [48,71]
   }
 }
