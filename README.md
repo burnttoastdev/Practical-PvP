@@ -30,9 +30,9 @@ As an operator, you can customize the duration of the combat timer by running th
 /scoreboard players set .config timer_seconds <seconds>
 ```
 
-## Looking to Remove Just the Elytra's?
+## Only Want Elytra Replacement?
 
-Check out [Elytra Eraser](https://modrinth.com/datapack/elytra-eraser) on Modrinth, it uses the same code!
+Check out [Elytra Eraser](https://modrinth.com/datapack/elytra-eraser) on Modrinth! It uses the same code, just cut down for only the Elytra replacement feature.
 
 ## Find a Bug?
 
