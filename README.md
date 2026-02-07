@@ -32,7 +32,7 @@ As an operator, you can customize the duration of the combat timer by running th
 
 ## Looking to Remove Just the Elytra's?
 
-Check out [Elytra Eraser]() on Modrinth, it uses the same code!
+Check out [Elytra Eraser](https://modrinth.com/datapack/elytra-eraser) on Modrinth, it uses the same code!
 
 ## Find a Bug?
 
