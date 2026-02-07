@@ -1,6 +1,6 @@
 # Practical PvP
 
-Want **balanced, more effective PvP** on your server? Practical PvP delivers. This data pack brings essential balance changes by adding **combat logging**, making ender pearls non-stackable, and making elytras useless. 
+Want **balanced, more effective PvP** on your server? Practical PvP delivers. This data pack brings essential balance changes by adding **combat logging**, non-stackable, ender pearls, and by making Elytra's useless. 
 
 These features create a more enjoyable experience for everyone, as players can fight without worrying about the other player leaving in the middle of combat. Additionally, they allow players to use different modes of transportation rather than the elytra.
 
@@ -29,6 +29,10 @@ As an operator, you can customize the duration of the combat timer by running th
 ```
 /scoreboard players set .config timer_seconds <seconds>
 ```
+
+## Looking to Only Remove the Elytra's?
+
+Check out [Elytra Eraser]() on Modrinth! It uses the same code!
 
 ## Find a Bug?
 
