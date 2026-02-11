@@ -2,6 +2,6 @@
   "pack": {
     "description": "Made by burnttoastdev!",
     "pack_format": 81,
-    "supported_formats": [48,81]
+    "supported_formats": [71, 81]
   }
 }
