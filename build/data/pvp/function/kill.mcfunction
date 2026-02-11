@@ -7,6 +7,6 @@ scoreboard players set @s logged 0
 
 # painful combat log message ->
 
-tellraw @a [{"text":"       |  \n       | \n      \\/","bold":true,"color":"red"},"\n\n",{"color":"aqua","selector":"@s"},{"text":" has died to","color":"white"}," ",{"text":"COMBAT LOGGING!","bold":true,"underlined":true,"color":"red"},"\n\n",{"text":"      /\\\n       |\n       |","bold":true,"color":"red"}]
+tellraw @a ["\n",{"color":"aqua","selector":"@s"},{"text":" has died to","color":"white"}," ",{"text":"COMBAT LOGGING!","bold":true,"underlined":true,"color":"red"},"\n"]
 
 playsound minecraft:entity.ender_dragon.ambient master @a

@@ -1,7 +1,7 @@
 {
   "pack": {
-    "description": "Practical PvP Data Pack",
-    "pack_format": 71,
-    "supported_formats": [48,71]
+    "description": "Made by burnttoastdev!",
+    "pack_format": 81,
+    "supported_formats": [48,81]
   }
 }
