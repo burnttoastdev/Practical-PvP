@@ -6,7 +6,7 @@ These features create a more enjoyable experience for everyone, as players can f
 
 ## Key Features
 
-* **Ender Pearl Rework:** Non-stackable, only drops from endermen.
+* **Ender Pearl Rework:** Non-stackable, only drops from Endermen.
 * **Elytra Replacement:** A useless, unbreakable leather chestplate.
 * **Combat Logging:**
     * A combat timer (30-second default) that is triggered when you hit or get hit by another player. Leaving before waiting out the combat timer will result in getting killed upon rejoining.
